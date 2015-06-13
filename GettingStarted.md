@@ -7,7 +7,7 @@
 3. Get a username on GitHub and make sure that you're added as a member of the hansenlab organization (this requires that you tell us your GitHub username).
 4. Get a username on Bitbucket.
 5. When you get a Hopkins emails address add it to your GitHub / Bitbucket account.  Both organizations provide a lot of free resources for people with edu email addresses.
-6. If you're involved in writing papers, get an account on (Overleaf)[http://www.overleaf.com].
+6. If you're involved in writing papers, get an account on [Overleaf](http://www.overleaf.com).
 
 
 
