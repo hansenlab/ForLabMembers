@@ -8,6 +8,8 @@
 4. Get a username on [Bitbucket](http://www.bitbucket.com). We are using Bitbucket a bit less these days, but some projects still exists there and Bitbucket has more generous user limits than GitHub.
 5. When you get a Hopkins emails address, add it to your GitHub / Bitbucket account and request an educational discount.  Both organizations provide a lot of free resources for people with edu email addresses.
 6. If you're involved in writing papers, get an account on [Overleaf](http://www.overleaf.com).
+7. Get access to our Google Calendar.
+8. Make sure you're subscribed to the right email lists (currently: Joint meeting).
 
 ## Computing setup
 
