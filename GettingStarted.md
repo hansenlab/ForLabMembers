@@ -13,7 +13,7 @@
 
 1. Setup ssh-keys on the cluster, to make it easy to login.
 2. Setup a `.sge_request` file for job submission on the cluster.
-
+3. Understand which version of R corresponds to Bioconductor devel and Bioconductor stable, so you're using the right version of R.
 
 ## Tools
 
