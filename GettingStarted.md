@@ -2,6 +2,8 @@
 
 ## Accounts
 
+Some of these things requires other people (us) to take action, but usually you need to send us appropriate username(s).
+
 1. Get access to the cluster resources we use, currently JHPCE.  This requires scheduling an orientation (which can be attended remotely) to get a username, and introduction to the resource.
 2. Get appropriate permissions on the cluster resources; you may have to be added to the right permission groups.
 3. Get a username on [GitHub](http://www.github.com) and make sure that you're added as a member of the hansenlab organization (this requires that you tell us your GitHub username).
@@ -10,6 +12,7 @@
 6. If you're involved in writing papers, get an account on [Overleaf](http://www.overleaf.com).
 7. Get access to our Google Calendar.
 8. Make sure you're subscribed to the right email lists (currently: Joint meeting).
+9. Get added to the [Lab](http://www.hansenlab.org) webpage.
 
 ## Computing setup
 
